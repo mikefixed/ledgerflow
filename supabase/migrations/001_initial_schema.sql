@@ -1,4 +1,4 @@
--- Enable UUID extension
+ has comple-- Enable UUID extension
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
 -- ============================================
